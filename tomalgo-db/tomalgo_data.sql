@@ -71,9 +71,9 @@ INSERT INTO `tag` VALUES ('5', 'Negocios');
 -- ----------------------------
 -- Records of event
 -- ----------------------------
-INSERT INTO `event` VALUES ('1', '6', 'copas gratis en tomamos algo', '2012-12-05 13:49:54', '2013-01-23 13:49:58', '0');
-INSERT INTO `event` VALUES ('2', '7', 'ambiente tetrico y chupito de bienvenida', '2012-12-05 13:49:54', '2013-01-23 13:49:58', '0');
-INSERT INTO `event` VALUES ('3', '6', 'Viernes 11 Enero - BirrenFest!!', '2012-12-03 13:49:54', '2013-02-10 13:49:58', '1');
+INSERT INTO `event` VALUES ('1', '6', 'copas gratis en tomamos algo', '2012-12-05 13:49:54', '2013-02-23 13:49:58', '0');
+INSERT INTO `event` VALUES ('2', '7', 'ambiente tetrico y chupito de bienvenida', '2012-12-05 13:49:54', '2013-03-23 17:29:47', '0');
+INSERT INTO `event` VALUES ('3', '6', 'Viernes 8 Febrero - BirrenFest!!', '2012-12-03 13:49:54', '2013-02-08 12:18:23', '1');
 
 -- ----------------------------
 -- Records of rl_tag
